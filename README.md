@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📊 Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmahadi007&show_icons=false&theme=radical)
 
  <a href="https://github.com/itsmahadi007/github-readme-stats"><img alt="Mahadi Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahadi007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
