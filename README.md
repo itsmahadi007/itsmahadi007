@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Github stats
+<!-- ## 📊 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmahadi007&show_icons=false&theme=radical)
 
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/itsmahadi007/github-readme-activity-graph -->
 <a href="https://github.com/itsmahadi007/github-readme-activity-graph"><img alt="itsmahadi007's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsmahadi007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ -->
