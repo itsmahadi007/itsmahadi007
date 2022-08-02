@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to Mahadi Hassan's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 
 <!--
 **itsmahadi007/itsmahadi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/itsmahadi007/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
