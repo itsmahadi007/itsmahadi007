@@ -1,30 +1,20 @@
-<h3 align="center">
-  Welcome to my Github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+<h1 align="center">Hi <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />, I'm Mahadi Hassan</h1>
+<h3 align="center">Software Engineer Specialising in Python, Django and Modern Deployment Strategies</h3>
+
+
+<h4 align="center">🌱 I’m looking for new challange </h5>
+
+
+### ⚙️ &nbsp;GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsmahadi007&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<h3 align="center">Connect:
+</a>
+<a href="https://twitter.com/itsmahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmahadi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itsmahadi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmahadi007" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12295256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12295256" height="30" width="40" /></a>
+<a href="https://fb.com/abc.mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc.mahadi" height="30" width="40" /></a>
+<a href="https://instagram.com/itsmahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmahadi" height="30" width="40" /></a>
 </h3>
-
-
-<!--
-**itsmahadi007/itsmahadi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ## 📊 Github stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmahadi007&show_icons=false&theme=radical)
-
- <a href="https://github.com/itsmahadi007/github-readme-stats"><img alt="Mahadi Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahadi007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
- -->
-<!-- https://github.com/itsmahadi007/github-readme-activity-graph -->
-<!-- <a href="https://github.com/itsmahadi007/github-readme-activity-graph"><img alt="itsmahadi007's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=itsmahadi007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- -->
