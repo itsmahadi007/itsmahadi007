@@ -1,7 +1,18 @@
-<h1 align="center">Hi <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />, I'm Mahadi Hassan</h1>
-<h3 align="center">Software Engineer Specialising in Python, Django and Modern Deployment Strategies</h3>
+<h1 align="center">Hello <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />, I'm Mahadi Hassan</h1>
+<h4 align="center">Software Engineer Specialising in Python, Django and Modern Deployment Strategies</h3>
 
-<h4 align="center">🌱 I’m looking for new challenge </h4>
+
+
+## 📝 Profile 🌱
+I'm a software engineer with 3 years of experience, specialising in Python and Django REST framework for backend development. I have a good grasp of technologies such as GraphQL (Graphene-Django), WebSockets, JavaScript, Vue.js for frontend development, Git for version control, and Docker for deployment and microservices management. I'm highly adaptable and always eager to learn new technologies. Currently, I'm seeking new opportunities to leverage my expertise in backend development and continue to grow professionally.
+
+## 💼 Skills 🚀
+- **Programming languages:** Python, JavaScript, C#
+- **Frameworks:** Django, Django Rest Framework, WebSockets, GraphQL (Graphene-Django), Vue.js
+- **Databases:** SQL Server, MySQL, PostgreSQL, SQLite
+- **Deployment:** Docker, Linux Server, AWS 
+- **Version control:** Git and GitHub
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
