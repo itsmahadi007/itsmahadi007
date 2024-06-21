@@ -27,5 +27,4 @@ I'm a software engineer with 4 years of experience, specialising in Python and D
 <a href="https://www.linkedin.com/in/itsmahadi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmahadi007" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12295256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12295256" height="30" width="40" /></a>
 <a href="https://fb.com/abc.mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc.mahadi" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmahadi" height="30" width="40" /></a>
 </p>
