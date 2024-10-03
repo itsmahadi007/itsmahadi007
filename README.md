@@ -4,7 +4,7 @@
 
 
 ## 📝 Profile 🌱
-I'm a software engineer with 4 years of experience, specialising in Python and Django REST framework for backend development. I have a good grasp of technologies such as GraphQL (Graphene-Django), WebSockets, JavaScript, Vue.js for frontend development, Git for version control, and Docker for deployment and microservices management. I'm highly adaptable and always eager to learn new technologies. Currently, I'm seeking new opportunities to leverage my expertise in backend development and continue to grow professionally.
+I'm a software engineer with 5 years of experience, specialising in Python and Django REST framework for backend development. I have a good grasp of technologies such as GraphQL (Graphene-Django), WebSockets, JavaScript, Vue.js for frontend development, Git for version control, and Docker for deployment and microservices management. I'm highly adaptable and always eager to learn new technologies. Currently, I'm seeking new opportunities to leverage my expertise in backend development and continue to grow professionally.
 
 ## 💼 Skills 🚀
 - **Programming languages:** Python, JavaScript, C#
