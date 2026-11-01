@@ -1,30 +1,31 @@
-<h1 align="center">Hello <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />, I'm Mahadi Hassan</h1>
-<h4 align="center">Software Engineer Specialising in Python, Django and Modern Deployment Strategies</h3>
-
-
-
-## 📝 Profile 🌱
-I'm a software engineer with 7 years of experience, specialising in Python and Django REST framework for backend development. I have a good grasp of technologies such as GraphQL (Graphene-Django), WebSockets, JavaScript, Vue.js for frontend development, Git for version control, and Docker for deployment and microservices management. I'm highly adaptable and always eager to learn new technologies. Currently, I'm seeking new opportunities to leverage my expertise in backend development and continue to grow professionally.
-
-## 💼 Skills 🚀
-- **Programming languages:** Python, JavaScript, C#
-- **Frameworks:** Django, Django Rest Framework, WebSockets, GraphQL (Graphene-Django), Vue.js
-- **Databases:** SQL Server, MySQL, PostgreSQL, SQLite
-- **Deployment:** Docker, Linux Server, AWS 
-- **Version control:** Git and GitHub
-
-
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=itsmahadi007&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak stats">
-  </a>
-</p> -->
-
-<!-- <h3 align="center">🔗 Connect with me:</h3> -->
+<h1 align="center">Hi, I'm Mahadi Hassan</h1>
+<h3 align="center">AI Engineer / Forward Deployed Engineer. I build and ship production AI into the real world.</h3>
 
 <p align="center">
-<a href="https://twitter.com/itsmahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmahadi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/itsmahadi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmahadi007" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12295256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12295256" height="30" width="40" /></a>
-<a href="https://fb.com/abc.mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc.mahadi" height="30" width="40" /></a>
+  <a href="https://mahadihassan.com">Portfolio</a> ·
+  <a href="https://mahadihassan.com/ask">Ask my AI assistant</a> ·
+  <a href="https://linkedin.com/in/itsmahadi007">LinkedIn</a> ·
+  <a href="mailto:mh@mahadihassan.com">Email</a> ·
+  <a href="https://t.me/itsmahadi007">Telegram</a>
 </p>
+
+## About me
+
+I have 7 years of backend experience, and I now build LLM systems, RAG and multi-model orchestration, plus the infrastructure that runs them.
+
+I've worked with teams in the UK, USA, UAE and Bangladesh, on products from HealthTech genomics to multi-tenant AI platforms.
+
+## Selected work
+
+- **[ApplyFuel](https://applyfuel.com)**: AI job-application copilot, built solo and live on the Chrome Web Store. Includes multi-provider LLM routing, an evaluation harness, per-call cost metering and Stripe billing.
+- **[django-advance-thumbnail](https://github.com/itsmahadi007/django_advance_thumbnail)**: drop-in Django thumbnail package on [PyPI](https://pypi.org/project/django-advance-thumbnail/). In production since 2023 and used at three companies, with no open issues.
+- **Domain-Agnostic RAG Chatbot**: LangChain and ChromaDB, with runtime provider switching, source citations and streaming.
+- **[Emberred](https://github.com/itsmahadi007/emberred)**: GBA-style RPG that runs in the browser. [Play it here](https://mahadihassan.com/emberred).
+
+## Tech stack
+
+- **AI:** LLM orchestration, RAG, LangChain, ChromaDB, prompt engineering and evaluation, Anthropic Claude, OpenAI, OpenRouter
+- **Backend:** Python, Django, Django REST Framework, FastAPI, Flask, GraphQL, WebSockets
+- **Frontend:** TypeScript, Next.js, Astro, React, Chrome extensions (MV3)
+- **Data:** PostgreSQL, Redis
+- **Infrastructure:** Docker, AWS, Linux, Cloudflare Workers, CI/CD
